@@ -1,6 +1,6 @@
 # GetInfos
 
-ReactJS project developed at the bootcamp GoStack. Add GitHub users and show their favorite repositories.
+ReactJS project developed at the GoStack bootcamp. Add GitHub users and show their favorite repositories.
 
 Used technologies:
 
