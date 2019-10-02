@@ -2,7 +2,7 @@
 
 ReactJS project developed at the GoStack bootcamp. Add GitHub users and show their favorite repositories.
 
-Used technologies:
+Techs:
 
 - ReactJS
 - React Router
